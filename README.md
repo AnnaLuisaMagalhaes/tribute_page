@@ -7,4 +7,4 @@ This is a Tribute Page created in order to complete the freeCodeCamp Challenge.
     <li>CSS</li>
     </ul>
 
-    Developed by :octocat: Anna Luisa Magalhaes. 
+    ### Developed by :octocat: Anna Luisa Magalhaes. 
